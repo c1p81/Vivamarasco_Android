@@ -1,0 +1,17 @@
+a 
+{ 
+color: white;
+font-style: italic;
+}
+
+.corsivo 
+{ 
+color: white;
+font-style: italic;
+}
+
+#wrapper {
+  background-size: cover;
+  background-attachment: fixed;
+ 
+}
